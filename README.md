@@ -18,13 +18,13 @@ This repository documents my foundational journey in learning React without rely
   - Virtual DOM & rendering
   - Props (manual implementation)
   - Basic components
-  - 🔄 React Lifecycle: `useEffect`, `useState`
-  - 🔧 Custom Hooks & Prop Drilling
-  - 🌍 Routing: React Router & TanStack Router
-  - 🧠 State Management: Zustand, Context API
-  - 🚦 Form Handling
-  - 💤 Lazy Loading
-  - 🧭 Meta Frameworks overview: Remix, Next.js
+  - React Lifecycle: `useEffect`, `useState`
+  - Custom Hooks & Prop Drilling
+  - Routing: React Router & TanStack Router
+  - State Management: Zustand, Context API
+  - Form Handling
+  - Lazy Loading
+  - Meta Frameworks overview: Remix, Next.js
 
 - **Tooling**
   - Vite project setup
